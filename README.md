@@ -3,4 +3,6 @@ press on his stomack to start the race as you rush through the different obstacl
 
 GOOD LUCK
 inspired by sonic 2d games
-made in pygame  web version through async.io
+made in pygame  web version through async.io IN VS CODE
+ i made this small platformer to entertain some young cousins for the upcoming halloween party (so they dont toouch my steam account)
+ so it is quite hard to entertain them as long as possible but will you be able to get 3 stars ?
